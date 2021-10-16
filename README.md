@@ -5,7 +5,6 @@
 - 🔭 Hoje trabalho como Analista de Planejamento e Controle da Produção
 - 🌱 Estou me formando em Engenharia de Produção e estudando JavaScript
 - 🤔 Estou precisando de ajuda para iniciar no mercado de programação
-- 📫 Contate me no e-mail patriciatoledo1996@gmail.com
 - 😄 Pronomes: ela/dela
 
  ##
