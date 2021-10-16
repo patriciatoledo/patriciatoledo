@@ -1,12 +1,15 @@
 ### Olá, eu sou a Patricia Toledo 👋
 
-
+  ##
+  
 - 🔭 Hoje trabalho como Analista de Planejamento e Controle da Produção
 - 🌱 Estou me formando em Engenharia de Produção e estudando JavaScript
 - 🤔 Estou precisando de ajuda para iniciar no mercado de programação
 - 📫 Contate me no e-mail patriciatoledo1996@gmail.com
 - 😄 Pronomes: ela/dela
 
+ ##
+  
 <div align="center">
   <a href="https://github.com/patriciatoledo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciatoledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,6 +27,5 @@
   <a href = "mailto:patriciatoledo1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patricia-toledo-9a49bb167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/patriciatoledo/patriciatoledo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
