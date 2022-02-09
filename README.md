@@ -3,7 +3,7 @@
   ##
   
 - 🔭 Hoje trabalho como Analista de Planejamento e Controle da Produção
-- 🌱 Formação em Engenharia de Produção e pós graduação em Tecnologias e Inovações Web em andamento
+- 🌱 Formação em Engenharia de Produção e Pós Graduação em Tecnologias e Inovações Web (em andamento)
 - 🤔 Estou precisando de ajuda para iniciar no mercado de programação
 - 😄 Pronomes: ela/dela
 
